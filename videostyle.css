@@ -1,0 +1,41 @@
+.first{
+    margin:auto;
+    position:relative;
+    box-shadow: shadow 5px;
+    background-color:yellow;
+}
+.hero-header{
+    position:relative;
+    border-radius: 4px;
+    margin:auto;
+
+
+}
+
+
+
+/* Further the youtube videos CSS starts.*/
+.videos.grid{
+    background-color: lightskyblue;
+    margin:auto;
+    border:5px;
+    padding:5px;
+    display:grid;
+    opacity:inherit;
+
+}
+.videos{
+    margin:auto;
+    border:5px;
+    padding:5px;
+    display:grid;
+    opacity:inherit;
+    gap: 20px;
+    
+
+}
+.heading{
+color:cornsilk;
+opacity:1;
+margin:auto;
+}
