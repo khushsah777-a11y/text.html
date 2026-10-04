@@ -1,0 +1,27 @@
+*{
+    background-color:#94f241;
+    color:#6df7e7;
+    margin:0;
+}
+.q{
+    text-align:left;
+    text-decoration:underline;
+    color:#ff0faf;
+    display:flex;
+    margin:5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:500;
+    font-optical-sizing:auto;
+
+}
+
+#a{
+    text-align:left;
+    text-decoration:underline;
+    color:#f5e6f0;
+    display:flex;
+    margin:5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:500;
+    font-optical-sizing:auto;
+}
