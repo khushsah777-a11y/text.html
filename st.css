@@ -38,11 +38,11 @@ margin:5px;
 }
 
 .r{
-    height: 700px;
-    width: 700px;
+    height: 300px;
+    width: 300px;
     border-collapse:collapse;
     border:3px solid #fcf151;
-    border-style: dotted;
+    background-color: #e37d00;
     text-transform:capitalize;
     font-family: 'Times New Roman', Times, serif;
     font-weight:500;
@@ -53,7 +53,8 @@ margin:5px;
     color:#ff0faf;
     text-align: center;
     text-decoration:underline;
-    text-transform:none;
+    text-transform:capitalize;
     font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
 
 }
