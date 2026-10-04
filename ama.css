@@ -5,38 +5,41 @@
     display: flex;
 }
 .a{
-    height: 500px;
-    width:300;
+    height: 700px;
+    width:500;
     background-color:#0d0b0a;
     margin: 5px 5px 5px 5px;
 }
 
 #b{
-    height:200px;
-    width: 200;
+    height:300px;
+    width: 300;
+    border:4px solid black;
     border-radius: 50%;
     background-color: Red;
     color: black;
-    margin:5px 5px 5px 5px;
-    padding: 10px 10px 10px 10px;
+    margin:20px 20px 20px 20px;
+    padding:20px 20px 20px 20px;
 }
 
 #c{
-    height:200px;
-    width: 200;
-    border-radius: 50%;
+    height:300px;
+    width: 300;
+    border:4px solid black;
+    border-radius: 50%; 
     background-color:#f5f231;
     color: black;
-    margin:5px 5px 5px 5px;
-    padding: 10px 10px 10px 10px;
+    margin:20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
 
 #c{
-    height:200px;
-    width: 200;
+    height:300px;
+    width: 300;
+    border:4px solid black;
     border-radius: 50%;
     background-color:#0acf11;
     color: black;
-    margin:5px 5px 5px 5px;
-    padding: 10px 10px 10px 10px;
+    margin:20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
