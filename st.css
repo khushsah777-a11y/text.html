@@ -38,9 +38,11 @@ margin:5px;
 }
 
 r{
-    border:700px 700px;
+    width: 700px;
+    height: 700px;
+    border:1px solid #fcf151;
     border-radius: 50%;
-    border-color:#fcf151;
+    border-style: dotted;
     text-transform:capitalize;
     font-family: 'Times New Roman', Times, serif;
     font-weight:500;
