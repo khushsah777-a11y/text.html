@@ -12,6 +12,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight:500;
     font-optical-sizing:auto;
+    text-transform:capitalize;
 
 }
 
@@ -22,6 +23,16 @@
     display:flex;
     margin:5px;
     font-family: 'Times New Roman', Times, serif;
-    font-weight:500;
+    font: weight 200px;;
     font-optical-sizing:auto;
+}
+
+#b{
+color:#1b07f5;
+text-decoration:underline;
+font-family:'Times New Roman', Times, serif;
+font: weight 200px;
+display:flex;
+font-optical-sizing: auto;
+margin:5px;
 }
