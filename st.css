@@ -38,8 +38,8 @@ margin:5px;
 }
 
 r{
-    width: 700px;
     height: 700px;
+    width: 700px;
     border-collapse:collapse;
     border:1px solid #fcf151;
     border-radius: 50%;
