@@ -13,7 +13,7 @@
 
 #b{
     height:300px;
-    width: 300;
+    width: 300px;
     border:4px solid black;
     border-radius: 50%;
     background-color: Red;
@@ -24,7 +24,7 @@
 
 #c{
     height:300px;
-    width: 300;
+    width: 300px;
     border:4px solid black;
     border-radius: 50%; 
     background-color:#f5f231;
@@ -33,9 +33,9 @@
     padding: 20px 20px 20px 20px;
 }
 
-#c{
+#d{
     height:300px;
-    width: 300;
+    width: 300px;
     border:4px solid black;
     border-radius: 50%;
     background-color:#0acf11;
