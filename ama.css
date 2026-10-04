@@ -27,6 +27,10 @@ height: 700px;
   color: black;
 }
 
+#b { background-color: red; }
+#c { background-color: #f5f231; }
+#d { background-color: #0acf11; }
+
 .A{
     height: 37px;
     width: 786px;
