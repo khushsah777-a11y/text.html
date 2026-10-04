@@ -36,3 +36,22 @@ display:flex;
 font-optical-sizing: auto;
 margin:5px;
 }
+
+r{
+    border:700px 700px;
+    border-radius: 50%;
+    border-color:#fcf151;
+    text-transform:capitalize;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:500;
+    color:#e30f00;
+    background-color: silver;
+}
+#c{
+    color:#ff0faf;
+    text-align: center;
+    text-decoration:underline;
+    text-transform:none;
+    font-family: 'Times New Roman', Times, serif;
+
+}
