@@ -30,4 +30,8 @@ button{
 
 .header.div{
   margin:200px;
+  border:1px;
+  display:inline-block;
+ margin-top: 20px;
+margin-bottom: 20px; 
 }
