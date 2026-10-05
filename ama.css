@@ -46,6 +46,9 @@ body {
 .nav-bar {
   background-color: #131921;
   display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  gap:15px;
   align-items: center;
   justify-content: space-between;
   padding: 10px 20px;
