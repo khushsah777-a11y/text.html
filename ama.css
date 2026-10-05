@@ -35,3 +35,18 @@ button{
  margin-top: 20px;
 margin-bottom: 20px; 
 }
+
+#header1{
+  background-color: aqua;
+    height:200px;
+}
+
+#header2{
+  background-color: blue;
+  height:200px;
+}
+
+#header3{
+  background-color:lightseagreen;
+  height:200px;
+}
