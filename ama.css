@@ -18,25 +18,3 @@ color:#f08804;
 a{
   margin-right: 200px;
 }
-.header.div{
-  margin:200px;
-  border:1px;
-  display:inline-block;
- margin-top: 20px;
-margin-bottom: 20px; 
-}
-
-#header1{
-  background-color: aqua;
-    height:200px;
-}
-
-#header2{
-  background-color: blue;
-  height:200px;
-}
-
-#header3{
-  background-color:lightseagreen;
-  height:200px;
-}
