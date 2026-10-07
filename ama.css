@@ -14,7 +14,16 @@ color:#f08804;
 #navbar{
   height:60px;
   background-color:black;
+
 }
 a{
   margin-right: 200px;
+    text-decoration:none;
+}
+#header.div{
+  height:100px;
+  
+}
+.header{
+  border:2px;
 }
