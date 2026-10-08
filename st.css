@@ -1,60 +1,23 @@
 *{
-    background-color:#94f241;
-    color:#6df7e7;
     margin:0;
-}
-.q{
-    text-align:center;
-    text-decoration:underline;
-    color:#ff0faf;
-    display:flex;
-    margin:5px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight:500;
-    font-optical-sizing:auto;
-    text-transform:capitalize;
-
+    padding: 0;
 }
 
-#a{
-    text-align:left;
-    text-decoration:underline;
-    color:#f5e6f0;
-    display:flex;
-    margin:5px;
-    font-family: 'Times New Roman', Times, serif;
-    font: weight 200px;;
-    font-optical-sizing:auto;
+
+footer{
+    height:600px;
 }
 
-#b{
-color:#1b07f5;
-text-decoration:underline;
-font-family:'Times New Roman', Times, serif;
-font: weight 200px;
-display:flex;
-font-optical-sizing: auto;
-margin:5px;
+D{
+    height:1500px;
+    width:auto;
 }
-
-.r{
-    height: 300px;
-    width: 300px;
-    border-collapse:collapse;
-    border:3px solid #fcf151;
-    background-color: #e37d00;
-    text-transform:capitalize;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight:500;
-    color:#e30f00;
-    background-color: silver;
-}
-#c{
-    color:#ff0faf;
-    text-align: center;
-    text-decoration:underline;
-    text-transform:capitalize;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
-
+d{
+    height:400px;
+    width:400px;
+    position: fixed;
+    right:2px;
+    bottom:2px;
+    background-image: url("Mandir.jpeg");
+    background-size:cover;
 }
