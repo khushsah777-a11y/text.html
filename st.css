@@ -15,5 +15,7 @@ div{
 #container{
     height: 800px;
     width: 700px;
+    border: 2px;
+    display: flex;
   
 }
