@@ -8,11 +8,12 @@ D{
     width:auto;
 }
 d{
-    height:400px;
-    width:400px;
-    position: fixed;
+    background-image: url(Mandir.jpeg);
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    position:fixed;
     right:2px;
     bottom:2px;
-    background-image: url("Mandir.jpeg");
-    background-size:cover;
+
 }
