@@ -6,15 +6,18 @@
 .conatiner{
     height:50px;
     width:auto;
+    background-color: greenyellow;
     display:flex;
     flex-direction:row;
+    justify-content: center;
     justify-content: space-evenly;
-        background-color: maroon;
+
 }
 
 li{
     background-color: aqua;
     display:inline;
+    list-style-type: none;
 }
 
 a{
