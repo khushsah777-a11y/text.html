@@ -7,7 +7,7 @@
     height:50px;
     width:auto;
     display:flex;
-    flex-direction:rpw;
+    flex-direction:row;
     justify-content: space-evenly;
         background-color: maroon;
 }
