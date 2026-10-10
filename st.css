@@ -3,19 +3,37 @@
     padding: 0;
 }
 
-body{
-    text-align: center;
+.conatiner{
+    height:50px;
+    width:auto;
+    display:flex;
+    flex-direction:rpw;
+    justify-content: space-evenly;
+        background-color: maroon;
 }
 
-div{
-    height: 100px;
-    width:100px;
-    display: inline-block;
+li{
+    background-color: aqua;
+    display:inline;
 }
-#container{
-    height: 800px;
-    width: 700px;
-    border: 2px solid black;
-    display: flex;
-  
+
+a{
+    text-decoration:none;
+    color :black;
+}
+
+.flexboxing{
+    height:600px;
+    width:600px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color: blue;
+    border:2px solid black;
+}
+
+.flexingitem{
+    height:100px;
+    width:100px;
+background-color:chocolate;
 }
