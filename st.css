@@ -69,3 +69,12 @@ ul{
     width:100px;
 background-color:chocolate;
 }
+
+.hero{
+
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border-color: grey;
+    
+}
