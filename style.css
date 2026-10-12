@@ -8,8 +8,8 @@
     height: 200px;
     width: 200px;
     border-radius: 50%;
+      border: 5px solid  #FF7F11;  
     border-top: 5px solid  #82D173;
-      border: 5px solid  #FF7F11; 
       animation:  spinAnimate 3s  ease-in-out 1s infinite  ;
 }
 
