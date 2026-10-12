@@ -5,12 +5,12 @@
 
 .hero{
 
-    height: 30px;
-    width: 30px;
+    height: 200px;
+    width: 200px;
     border-radius: 50%;
     border-top: 5px solid  #82D173;
-      border: 5px solid  #152614; 
-      animation:  loaderAniamte infinite ease-in-out 3s  ;
+      border: 5px solid  #FF7F11; 
+      animation:  loaderAniamte 3s  ease-in-out 1s infinite  ;
 }
 
 @keyframes loaderAniamte 
