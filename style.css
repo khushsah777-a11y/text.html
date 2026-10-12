@@ -1,0 +1,22 @@
+*{
+    padding:0px;
+    margin:opx;
+}
+
+.hero{
+
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border-top: 5px solid  #82D173;
+      border: 5px solid  #152614; 
+      animation:  loaderAniamte infinite ease-in-out 3s  ;
+}
+
+@keyframes loaderAniamte 
+{from{
+     transform:rotate(0deg);}
+to{
+    trtansform:rotate(360deg);}
+    
+}
