@@ -75,6 +75,6 @@ background-color:chocolate;
     height: 30px;
     width: 30px;
     border-radius: 50%;
-    border-color: grey;
-    
+    border-top: 5px solid  #82D173;
+      border: 5px solid  #152614;
 }
